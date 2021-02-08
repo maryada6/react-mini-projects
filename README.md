@@ -9,7 +9,7 @@ Project 5:  https://mk-menu-app-5.netlify.app/
 Project 6:  https://mk-tabs-app-6.netlify.app/
 Project 7:  https://mk-slider-app-7.netlify.app/
 Project 8:  https://mk-lorem-ipsum-app-8.netlify.app/
-Project 9:  https://app.netlify.com/sites/mk-color-generator-app-9
+Project 9:  https://mk-color-generator-app-9.netlify.app
 Project 10: https://mk-grocery-bud-app-10.netlify.app/
 Project 11: https://mk-navbar-app-11.netlify.app/
 Project 12: https://mk-sidebar-app-12.netlify.app/
